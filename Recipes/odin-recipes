@@ -7,8 +7,8 @@
 <body>
     <p><h1>Odin Recipes</h1></p>
     <ul>
-    <li><a href="Recipes/lasagna.html">Lasagna Recipe</a></li>
-    <li></li><a href="Recipes/grilledradroachmeat.html">Grilled Radroach</a></li>
+    <li><a href="lasagna.html">Lasagna Recipe</a></li>
+    <li></li><a href="grilledradroachmeat.html">Grilled Radroach</a></li>
     </ul>
 </body>
 <footer></footer>
